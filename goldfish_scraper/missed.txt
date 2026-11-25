@@ -1,0 +1,166 @@
+Resolving: https://www.mtggoldfish.com/price/the-brothers-war-commander/144/idol-of-oblivion
+Found card_ids:
+
+FAILED: Idol of Oblivion [BRC] 144
+Could not resolve MTGGoldfish ID for Idol of Oblivion
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-brothers-war-commander/144/idol-of-oblivion"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-list/M20-214/moldervine-reclamation
+Found card_ids:
+
+FAILED: Moldervine Reclamation [PLST] 20214
+Could not resolve MTGGoldfish ID for Moldervine Reclamation
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-list/20214/moldervine-reclamation"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-hobbit/169/tom-bert-and-william
+Found card_ids:
+
+FAILED: Tom, Bert, and William [HOB] 169
+Could not resolve MTGGoldfish ID for Tom, Bert, and William
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-hobbit/169/tom-bert-and-william-313c2650-84b5-4c10-8ea7-eb849debdc60#online"
+
+
+Resolving: https://www.mtggoldfish.com/price/zendikar-rising/259/brightclimb-pathway-grimclimb-pathway
+Found card_ids:
+
+FAILED: Brightclimb Pathway // Grimclimb Pathway [ZNR] 259
+Could not resolve MTGGoldfish ID for Brightclimb Pathway // Grimclimb Pathway
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/zendikar-rising/259/brightclimb-pathway#online"
+
+
+Resolving: https://www.mtggoldfish.com/price/commander-legends/482/evolving-wilds
+Found card_ids:
+
+FAILED: Evolving Wilds [CMR] 482
+Could not resolve MTGGoldfish ID for Evolving Wilds
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/commander-legends/482/evolving-wilds-precon"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-brothers-war-commander/185/exotic-orchard
+Found card_ids:
+
+FAILED: Exotic Orchard [BRC] 185
+Could not resolve MTGGoldfish ID for Exotic Orchard
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-brothers-war-commander/185/exotic-orchard-retro"
+
+
+Resolving: https://www.mtggoldfish.com/price/tales-of-middle-earth-commander/316/graypelt-refuge
+Found card_ids:
+
+FAILED: Graypelt Refuge [LTC] 316
+Could not resolve MTGGoldfish ID for Graypelt Refuge
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth-commander/316/graypelt-refuge"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-brothers-war-commander/190/myriad-landscape
+Found card_ids:
+
+FAILED: Myriad Landscape [BRC] 190
+Could not resolve MTGGoldfish ID for Myriad Landscape
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-brothers-war-commander/190/myriad-landscape-retro"
+
+
+Resolving: https://www.mtggoldfish.com/price/tales-of-middle-earth-commander/327/sandsteppe-citadel
+Found card_ids:
+
+FAILED: Sandsteppe Citadel [LTC] 327
+Could not resolve MTGGoldfish ID for Sandsteppe Citadel
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth-commander/327/sandsteppe-citadel"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-list/HOU-184/survivors-encampment
+Found card_ids:
+
+FAILED: Survivors' Encampment [PLST] 184
+Could not resolve MTGGoldfish ID for Survivors' Encampment
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-list/184/survivors-encampment"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-brothers-war-commander/132/arcane-signet
+Found card_ids:
+
+FAILED: Arcane Signet [BRC] 132
+Could not resolve MTGGoldfish ID for Arcane Signet
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-brothers-war-commander/132/arcane-signet-retro"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-brothers-war-commander/141/fellwar-stone
+Found card_ids:
+
+FAILED: Fellwar Stone [BRC] 141
+Could not resolve MTGGoldfish ID for Fellwar Stone
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-brothers-war-commander/141/fellwar-stone-retro"
+
+
+Resolving: https://www.mtggoldfish.com/price/new-capenna-commander/305/rishkar-peema-renegade
+Found card_ids:
+
+FAILED: Rishkar, Peema Renegade [NCC] 305
+Could not resolve MTGGoldfish ID for Rishkar, Peema Renegade
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/streets-of-new-capenna-commander/305/rishkar-peema-renegade"
+
+
+Resolving: https://www.mtggoldfish.com/price/wilds-of-eldraine-enchanting-tales/13/smothering-tithe
+Found card_ids:
+
+FAILED: Smothering Tithe [WOT] 13
+Could not resolve MTGGoldfish ID for Smothering Tithe
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/enchanting-tales/13/smothering-tithe"
+
+
+Resolving: https://www.mtggoldfish.com/price/tales-of-middle-earth-commander/293/worn-powerstone
+Found card_ids:
+
+FAILED: Worn Powerstone [LTC] 293
+Could not resolve MTGGoldfish ID for Worn Powerstone
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-lord-of-the-rings-tales-of-middle-earth-commander/293/worn-powerstone""
+
+
+Resolving: https://www.mtggoldfish.com/price/commander-legends/387/swords-to-plowshares
+Found card_ids:
+
+FAILED: Swords to Plowshares [CMR] 387
+Could not resolve MTGGoldfish ID for Swords to Plowshares
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/commander-legends/387/swords-to-plowshares-precon"
+
+
+Resolving: https://www.mtggoldfish.com/price/wilds-of-eldraine-enchanting-tales/59/primal-vigor
+Found card_ids:
+
+FAILED: Primal Vigor [WOT] 59
+Could not resolve MTGGoldfish ID for Primal Vigor
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/enchanting-tales/59/primal-vigor"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-lost-caverns-of-ixalan/235/the-mycotyrant
+Found card_ids:
+
+FAILED: The Mycotyrant [LCI] 235
+Could not resolve MTGGoldfish ID for The Mycotyrant
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/lost-caverns-of-ixalan/235/the-mycotyrant"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-hobbit/29/an-unexpected-party-at-the-door
+Found card_ids:
+
+FAILED: An Unexpected Party // At the Door [HOB] 29
+Could not resolve MTGGoldfish ID for An Unexpected Party // At the Door
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-hobbit/29/an-unexpected-party"
+
+
+Resolving: https://www.mtggoldfish.com/price/the-hobbit/170/the-arkenstone-seek-the-heart
+Found card_ids:
+
+FAILED: The Arkenstone // Seek the Heart [HOB] 170
+Could not resolve MTGGoldfish ID for The Arkenstone // Seek the Heart
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/the-hobbit/170/the-arkenstone"
+
+
+Resolving: https://www.mtggoldfish.com/price/wilds-of-eldraine/38/virtue-of-loyalty-ardenvale-fealty
+Found card_ids:
+
+FAILED: Virtue of Loyalty // Ardenvale Fealty [WOE] 38
+Could not resolve MTGGoldfish ID for Virtue of Loyalty // Ardenvale Fealty
+# Above was missed since effective link is "https://www.mtggoldfish.com/price/wilds-of-eldraine/38/virtue-of-loyalty"

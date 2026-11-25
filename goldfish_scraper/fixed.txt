@@ -1,0 +1,7 @@
+### Fixed with swap of link parsing (build_goldfish_url)
+
+Resolving: https://www.mtggoldfish.com/price/tales-of-middle-earth-commander/35/arwen-weaver-of-hope
+Found card_ids:
+
+FAILED: Arwen, Weaver of Hope [LTC] 35
+Could not resolve MTGGoldfish ID for Arwen, Weaver of Hope
